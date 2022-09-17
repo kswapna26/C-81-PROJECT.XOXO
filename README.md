@@ -1,1 +1,2 @@
-# C-81-PROJECT.XOXO
+# spectagram-stage-1
+project solution for c81
